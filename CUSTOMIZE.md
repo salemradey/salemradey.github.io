@@ -990,7 +990,7 @@ These settings control:
 The theme offers several options for customizing how publications are displayed:
 
 ```yaml
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 max_author_limit: 3
 more_authors_animation_delay: 10
 ```
