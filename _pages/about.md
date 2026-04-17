@@ -37,6 +37,6 @@ Email: Salem [dot] Radey [at] wisc [dot] edu
 
 I am currently a Computer Science Master's student at the [University of Wisconsin - Madison](https://www.wisc.edu) conducting research with the [Wi-Pi](https://wiscprivacy.com/) group. My interests lie in computer security and privacy, and my previous work has centered around reverse engineering on android systems.
 
-During my undergraduate degree at [UW-Whitewater](https://www.uww.edu) I studied Media Arts and Game Design with dual minors in Computer Science and Japanese language. 
+During my undergraduate degree at [UW-Whitewater](https://www.uww.edu) I studied Media Arts and Game Development  with dual minors in Computer Science and Japanese language. 
 
 In my free time I like to do karate, horseback riding, drawing, and practicing my Japanese skills by reading visual novels or watching un-subtitled anime!
