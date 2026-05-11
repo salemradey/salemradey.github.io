@@ -40,11 +40,18 @@ cv:
         end_date: 2022
 
     Experience:
+      - company: UW-Health
+        position: Research Intern
+        location: Madison, Wisconsin, US
+        start_date: Jun. 2025
+        end_date: Current
+        summary: Conducted research on the impact of current teaching methods and AI consulting on the skill level of radiology technicians reading breast imaging by utilizing eye tracking data.
+
       - company: Wi-Pi Lab
         position: Security Research Assistant
         location: Madison, Wisconsin, US
         start_date: Jan. 2025
-        end_date: Current
+        end_date: May 2026
         summary: Conducted research on security and privacy issues for class credit, while contributing to various research projects and papers.
 
       - company: DoIT Help Desk
