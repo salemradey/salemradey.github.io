@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_2026.jpg
+  image: prof_pic_2026_grad.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
@@ -35,7 +35,9 @@ Pronouns: He/Him
 
 Email: Salem [dot] Radey [at] wisc [dot] edu
 
-I am currently a Computer Science Master's student at the [University of Wisconsin - Madison](https://www.wisc.edu) conducting research with the [Wi-Pi](https://wiscprivacy.com/) group. My interests lie in computer security and privacy, and my previous work has centered around reverse engineering on android systems.
+I am a recent Computer Science Master's graduate from the [University of Wisconsin - Madison](https://www.wisc.edu) where I conducted research with the [Wi-Pi](https://wiscprivacy.com/) group. My interests lie in computer security and privacy, and my previous work has centered around reverse engineering on android systems. 
+
+I am currently working at UW-Health researching eye tracking for breast imaging under [Lonie Salkowski](https://www.radiology.wisc.edu/profile/lonie-salkowski). I plan to apply to CS PhD programs this Fall for the 2027 cycle.
 
 During my undergraduate degree at [UW-Whitewater](https://www.uww.edu) I studied Media Arts and Game Development  with dual minors in Computer Science and Japanese language. 
 
