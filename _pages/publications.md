@@ -15,6 +15,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h3>official publications</h3>
+{% bibliography --query @*[keywords=official]* %}
+
+<h3 class="student-publications">student publications</h3>
+{% bibliography --query @*[keywords=student]* %}
 
 </div>
